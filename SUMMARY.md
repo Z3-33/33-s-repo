@@ -3,6 +3,6 @@
 
 [Introduction](README.md)
 
-[奖励的惩罚](README.md)
+[奖励的惩罚](Punished by Rewards-Alfie Kohn.md)
 
 
